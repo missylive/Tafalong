@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_show_mix_data" value="name:no;datatype:int,name:type;datatype:string,name:title;datatype:string" />
+</info>

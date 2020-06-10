@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_show_advertising" value="name:no;datatype:int,name:title;datatype:string,name:website;datatype:string,name:pic;datatype:string" />
+</info>

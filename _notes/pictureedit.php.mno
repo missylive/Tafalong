@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_insert_pic" value="name:no;datatype:int,name:number;datatype:int,name:type;datatype:string,name:title;datatype:string,name:content;datatype:string,name:pic;datatype:string" />
+</info>

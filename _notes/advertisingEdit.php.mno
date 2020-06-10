@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_AdEdit" value="name:no;datatype:int,name:title;datatype:string,name:website;datatype:string,name:content;datatype:string,name:pic;datatype:string,name:update;datatype:date" />
+</info>

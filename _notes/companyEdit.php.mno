@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ComEdit" value="name:no;datatype:int,name:name;datatype:string,name:type;datatype:string,name:phone;datatype:int,name:email;datatype:string,name:website;datatype:string,name:address;datatype:string,name:pic;datatype:string,name:content;datatype:blob,name:other;datatype:blob" />
+</info>

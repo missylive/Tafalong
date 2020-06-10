@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_searchuser" value="name:id;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_user_logon" value="name:id;datatype:string,name:password;datatype:string" />
+</info>

@@ -1,0 +1,37 @@
+ .cover_div{  
+        float:left;  
+        width:270px;  
+    }  
+    .fake_input{  
+        float:left;  
+        width:135px;  
+        margin:0 5px 0 0;  
+    }  
+    .fake_image{  
+        background:url(add_date.jpg);  
+        width:74px;  
+        height:21px;  
+        display:block;  
+        float:left;  
+        text-align:center;  
+        color:white;  
+        text-decoration:none;  
+        font-size:12px;  
+        padding:3px 0 0 0;  
+        color:white !important;  
+    }  
+    .hide_input{  
+        border:1px solid red;  
+        margin:0px 0 0 -267px;  
+        margin:0px 0 0 -267px9;  
+        float:left;  
+        height:30px;  
+        opacity:0;  
+        filter:alpha(opacity=0);  
+        width:220px9;  
+    }  
+   
+       
+    .clear{  
+        clear:both;  
+    }
